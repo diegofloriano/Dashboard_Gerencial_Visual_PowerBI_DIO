@@ -34,7 +34,5 @@ O relatório é composto por **3 páginas principais** interligadas. Durante o d
 
 ## 💻 Ferramentas Utilizadas
 * **Microsoft Power BI:** Tratamento de dados, modelagem, criação de medidas DAX e construção do Dashboard.
-* **Figma / PowerPoint (Opcional):** Criação de Backgrounds e elementos visuais de UI.
-
 ---
 *Desafio de Projeto desenvolvido com base nas diretrizes da plataforma DIO.*
